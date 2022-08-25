@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="com.ericsson.testng.administrator.LoginAdmin"/>
+      <class name="com.ericsson.testng.administrator.SendRequest"/>
+      <class name="com.ericsson.testng.administrator.AddCustomerAccount"/>
+      <class name="com.ericsson.testng.administrator.EditCustomerAccount"/>
+      <class name="com.ericsson.testng.administrator.AddCustomerCountry"/>
+      <class name="com.ericsson.testng.administrator.EditCustomerCountry"/>
+      <class name="com.ericsson.testng.administrator.AddCustomerCustomer"/>
+      <class name="com.ericsson.testng.administrator.EditCustomerCustomer"/>
+	  <class name="com.ericsson.testng.administrator.AddCustomerRegion"/>
+      <class name="com.ericsson.testng.administrator.EditCustomerRegion"/>
+      <class name="com.ericsson.testng.administrator.AddCustomerUnit"/>
+      <class name="com.ericsson.testng.administrator.EditCustomerUnit"/> 
+      <class name="com.ericsson.testng.administrator.AddLifeCycleLifeCycle"/>
+      <class name="com.ericsson.testng.administrator.EditLifeCycleLifeCycle"/>
+      <class name="com.ericsson.testng.administrator.DeleteLifeCycleLifeCycle"/>
+      <class name="com.ericsson.testng.administrator.AddLifeCycleLifeCycleMap"/>
+      <class name="com.ericsson.testng.administrator.EditLifeCycleLifeCycleMap"/>
+      <class name="com.ericsson.testng.administrator.DeleteLifeCycleLifeCycleMap"/>
+      <class name="com.ericsson.testng.view.LoginUser"/>
+         
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
